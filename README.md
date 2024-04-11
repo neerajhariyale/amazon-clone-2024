@@ -1,1 +1,1 @@
-# amazon-clone-2024
+amazon clone created using html css
